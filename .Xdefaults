@@ -1,0 +1,23 @@
+URxvt*scrollBar:  false
+
+urxvt*skipBuiltinGlyphs: true
+urxvt*font: xft:DejaVu Sans Mono:style=Book:antialias=false:size=16, \
+            xft:WenQuanYi Bitmap Song:size=16, \
+            xft:FreeSerif:style=Regular, \
+            xft:unifont:style=Medium:antialias=false
+
+urxvt*boldFont: xft:DejaVu Sans Mono:style=Book:antialias=false:size=16, \
+                xft:WenQuanYi Bitmap Song:size=16, \
+                xft:unifont:style=Medium:antialias=false
+
+urxvt*italicFont: xft:DejaVu Sans Mono:style=Book:antialias=false:size=16, \
+                  xft:WenQuanYi Bitmap Song:size=16, \
+                  xft:unifont:style=Medium:antialias=false
+
+urxvt*boldItalicFont: xft:DejaVu Sans Mono:style=Book:antialias=false:size=16, \
+                      xft:WenQuanYi Bitmap Song:size=16, \
+                      xft:unifont:style=Medium:antialias=false
+
+
+URxvt.perl-ext-common: font-size
+
